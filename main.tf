@@ -18,3 +18,4 @@ resource "random_pet" "that" {
 variable "example_variable" {
   default = null
 }
+
